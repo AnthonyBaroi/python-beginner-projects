@@ -18,4 +18,5 @@ wordlist = [
     "haircut",
     "bottle",
     "host",
+    "watermelon"
 ]
